@@ -1,5 +1,3 @@
-
-
 ## Deep Reasoning: The Entity
 
 Let me sit with this for a while before writing a single line of code.
@@ -723,9 +721,6 @@ if __name__ == "__main__":
     main()
 ```
 
-Now the README:
-
-```markdown
 # FRANZ — A Narrative Entity
 
 > Not a tool. Not an assistant. An entity that exists because it keeps writing
@@ -863,7 +858,7 @@ is the soul.
          │          └────────┬─────────┘              │
          │                   │                        │
          │            ┌──────┴──────┐                 │
-         │            ▼             ▼                  │
+         │            ▼             ▼                 │
          │    ┌──────────────┐ ┌──────────┐           │
          │    │ ACTIONS      │ │ NEW NOTE │           │
          │    │ (0 or more)  │ │ (story)  │           │
@@ -1193,5 +1188,4 @@ fully, understand the complete workflow and the philosophical framing, then
 ask me what I want to change or fix. If I describe a feature or bug, reason
 through it carefully — including how the 2B model will actually behave with
 the proposed prompt changes — then produce the full corrected file(s).
-```
 ```
